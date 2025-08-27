@@ -1,4 +1,4 @@
-# D-Tree: A New Association Rule Mining Technique
+# A New Association Rule Mining Technique
 
 This repository contains the implementation of the **D-Tree (Dominant-Tree)** algorithm, a novel Association Rule Mining (ARM) technique designed to improve the relevance and accuracy of mined patterns from transactional databases.
 
